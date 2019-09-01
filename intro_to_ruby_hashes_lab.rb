@@ -1,4 +1,7 @@
-def new_hash
+def new_hash {
+  
+}
+  
   # return an empty hash
 end
 
